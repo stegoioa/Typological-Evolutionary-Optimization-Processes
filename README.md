@@ -8,8 +8,6 @@ This repository contains a series of workflows for different optimization techni
 
 The Typological Optimization workflows use the Topos plugin, which can be downloaded from [Food4Rhino](https://www.food4rhino.com/app/topos). It uses genetic algorithms to generate and evaluate multiple design alternatives and determine the optimal design. The workflow published was developed with the Topos Utentsils to automatically optimizes modular parts of a structure within given parameters. The outcome can be seen below. 
 
-![Typological Optimization](./typological_preview2.gif)
-
 ## Evolutionary Optimization
 
 ![Evolutionary Optimization](./evolutionary_optimization.gif)
