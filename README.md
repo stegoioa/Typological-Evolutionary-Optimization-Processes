@@ -4,13 +4,15 @@ This repository contains a series of workflows for different optimization techni
 
 ## Typological Optimization
 
-![Typological Optimization](typological_optimization.png)
+![Typological Optimization](./typologicalopti_preview.jpg)
 
-The Typological Optimization workflows use the Topos plugin, which can be downloaded from [Food4Rhino](https://www.food4rhino.com/app/topos). Topos is a Grasshopper plugin that automatically optimizes modular parts of a structure within given parameters. It uses genetic algorithms to generate and evaluate multiple design alternatives and determine the optimal design. With the workflows in this repository, users can quickly deploy Topos to optimize their designs.
+The Typological Optimization workflows use the Topos plugin, which can be downloaded from [Food4Rhino](https://www.food4rhino.com/app/topos). It uses genetic algorithms to generate and evaluate multiple design alternatives and determine the optimal design. The workflow published was developed with the Topos Utentsils to automatically optimizes modular parts of a structure within given parameters. The outcome can be seen below. 
+
+![Typological Optimization](./typological_preview2.gif)
 
 ## Evolutionary Optimization
 
-![Evolutionary Optimization](evolutionary_optimization.png)
+![Evolutionary Optimization](./evolutionary_optimization.gif)
 
 The Evolutionary Optimization workflows use two plugins: Galapagos and Wallacei. These plugins can be downloaded from [Food4Rhino](https://www.food4rhino.com/app/galapagos) and [Food4Rhino](https://www.food4rhino.com/app/wallacei). Galapagos is a genetic algorithm solver that can find optimal solutions to multi-goal optimization problems, and Wallacei is a plugin for interactive evolutionary multi-objective optimization. 
 
